@@ -1,0 +1,11 @@
+{
+  "name": "Master of Tasker",
+  "image": "mcr.microsoft.com/vscode/devcontainers/base:0-alpine-3.14",
+  "extensions": [
+    "ms-vscode.cpptools",
+    "ms-python.python"
+  ],
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/ash"
+  }
+}
